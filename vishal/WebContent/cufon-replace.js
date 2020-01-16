@@ -1,0 +1,1 @@
+Cufon.replace('.top-menu, .header-text h3, .content h3', { fontFamily: 'Myriad Pro', hover:true });
